@@ -1,6 +1,6 @@
-# Fullstack Developer
+# Back-End Developer
 
-I am an early-career developer seeking my first opportunity as a Fullstack Developer. I have hands-on experience in personal and academic projects, where I applied my technical and interpersonal skills to create efficient solutions.
+I am an early-career developer seeking my first opportunity as a back-end developer. I have hands-on experience in personal and academic projects, where I applied my technical and interpersonal skills to create efficient solutions.
 
 ## Project Experience:
 
@@ -10,7 +10,7 @@ I am an early-career developer seeking my first opportunity as a Fullstack Devel
 ## Technical Skills:
 
 - Backend: Java (primary language), Spring Boot
-- Frontend: JavaScript, React
+- Frontend: JavaScript
 - Databases: PostgreSQL, MySQL, MongoDB
 - Interpersonal Skills:
 
@@ -35,9 +35,9 @@ I am in the third semester of the Systems Development program at SENAI, compleme
 I have a strong interest in computer vision and artificial intelligence, areas in which I intend to specialize.
 
 
-# Desenvolvedor Fullstack em Busca de Novos Desafios
+# Desenvolvedor Back-End em Busca de Novos Desafios
 
-Sou um desenvolvedor em início de carreira, buscando minha primeira oportunidade como Fullstack Developer. Possuo experiência prática em projetos pessoais e acadêmicos, onde apliquei minhas habilidades técnicas e interpessoais para criar soluções eficientes.
+Sou um desenvolvedor em início de carreira, buscando minha primeira oportunidade como desenvolvedor back-end. Possuo experiência prática em projetos pessoais e acadêmicos, onde apliquei minhas habilidades técnicas e interpessoais para criar soluções eficientes.
 
 ## Experiência em Projetos
 
@@ -45,7 +45,8 @@ Sou um desenvolvedor em início de carreira, buscando minha primeira oportunidad
 
 ## Habilidades Técnicas
 
-- Backend: Java (linguagem principal), Spring Boot Frontend: JavaScript, React
+- Backend: Java (linguagem principal), Spring Boot
+- Frontend: JavaScript
 - Bancos de Dados: PostgreSQL, MySQL, MongoDB
 - Habilidades Interpessoais: Comunicação eficaz Resolução de problemas Trabalho em equipe Inteligência emocional
 
