@@ -23,3 +23,8 @@ I am currently in my third semester of the Systems Development course at SENAI a
 - Adaptability
 - Innovation
 - Continuous learning
+
+# Linguagens mais usadas no GitHub
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=euvitorti&layout=compact&theme=dark)
+![Total de Commits](https://github-readme-stats.vercel.app/api?username=euvitorti&count_private=true&theme=dark)
