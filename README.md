@@ -1,6 +1,6 @@
 # Quem é Vítor? 👨‍💻
 
-Sou um desenvolvedor focado em me tornar especialista em backend com Java, com experiência prática em projetos pessoais e acadêmicos, onde utilizei Java e Spring Boot para criar APIs REST e trabalhar com bancos de dados como MySQL. Além disso, aplico metodologias ágeis, como Kanban, para otimizar o desenvolvimento. Atualmente, estou no terceiro semestre do curso de Desenvolvimento de Sistemas no SENAI e complemento minha formação com cursos na Alura e FIAP, buscando sempre aprimorar minhas habilidades e estar preparado para novos desafios.
+Sou um desenvolvedor focado em me tornar especialista em backend com Java e Spring Boot, com experiência prática em projetos pessoais e acadêmicos, onde utilizei minhas habilidades para criar APIs REST e trabalhar com bancos de dados relacionais como PostgreSQL. Aplico metodologias ágeis, como Kanban, para otimizar o desenvolvimento. Atualmente, estou no terceiro semestre do curso de Desenvolvimento de Sistemas no SENAI e complemento minha formação com cursos na Alura, sempre buscando aprimorar minhas habilidades e estar preparado para novos desafios.
 
 ## Hard Skills:
 
@@ -10,6 +10,8 @@ Sou um desenvolvedor focado em me tornar especialista em backend com Java, com e
 - **Ferramentas de Versionamento**: Git, GitHub
 - **Segurança**: Autenticação com JWT, Spring Security
 - **Bancos de Dados**: PostgreSQL, MySQL
+- **Arquitetura**: MVC, Microsserviços
+- **Mensageria**: RabbitMQ
 - **Metodologias Ágeis**: Kanban
 
 ## Soft Skills:
