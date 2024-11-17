@@ -23,5 +23,9 @@ Sou um desenvolvedor backend com Java e Spring Boot, com experiência prática e
 - Inovação
 - Aprendizagem contínua
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=euvitorti&layout=compact&theme=dark)
-![Total de Commits](https://github-readme-stats.vercel.app/api?username=euvitorti&count_private=true&theme=dark)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=euvitorti" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=euvitorti&layout=compact&langs_count=10&card_width=320" />
+</a>
