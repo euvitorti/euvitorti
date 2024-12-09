@@ -22,7 +22,6 @@ Sou estudante de backend com experiência prática em projetos pessoais e acadê
 - **Ferramentas de Versionamento**: Git, GitHub
 - **Segurança**: Spring Security
 - **Bancos de Dados Relacionais**: PostgreSQL e MySQL
-- **Banco de Dados Não Relacional**: MongoDB
 - **Arquitetura**: MVC, Microsserviços
 - **Mensageria**: RabbitMQ
 - **Ferramentas**: Postman, Intellij IDEA, VS Code
