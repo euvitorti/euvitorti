@@ -1,17 +1,33 @@
 # Quem é Vítor? 👨‍💻
 
-Sou um desenvolvedor backend com Java e Spring Boot, com experiência prática em projetos pessoais e acadêmicos, onde utilizei minhas habilidades para criar APIs REST e trabalhar com bancos de dados relacionais como PostgreSQL. Atualmente, estou no terceiro semestre do curso de Desenvolvimento de Sistemas no SENAI e complemento minha formação com cursos na Alura, sempre buscando aprimorar minhas habilidades e estar preparado para novos desafios.
+---
+
+Sou estudante de backend com experiência prática em projetos pessoais e acadêmicos, desenvolvendo APIs e trabalhando com bancos de dados relacionais. Atualmente, estou no terceiro semestre do curso de Desenvolvimento de Sistemas no SENAI e complemento minha formação com cursos na Alura. Estou sempre em busca de aprimorar minhas competências e preparado para enfrentar novos desafios no desenvolvimento de software.
+
+---
+
+## Idiomas
+
+- **Inglês**: Nível B1 (Focando na Conversaçao)
+- **Espanhol**: Nível A2
+   
+---
 
 ## Hard Skills:
 
-- **Linguagens de programação**: Java e JavaScript
-- **Backend**: Spring Boot, RESTful API, WebSocket
+- **Sistemas Operacionais**: Linux, Windows 
+- **Linguagens de programação**: Java, JavaScript
+- **Framework**: Spring Boot
 - **Testes Unitários**: Mockito, JUnit
 - **Ferramentas de Versionamento**: Git, GitHub
-- **Segurança**: Autenticação com JWT, Spring Security
-- **Bancos de Dados**: PostgreSQL, MySQL
+- **Segurança**: Spring Security
+- **Bancos de Dados Relacionais**: PostgreSQL e MySQL
+- **Banco de Dados Não Relacional**: MongoDB
 - **Arquitetura**: MVC, Microsserviços
 - **Mensageria**: RabbitMQ
+- **Ferramentas**: Postman, Intellij IDEA, VS Code
+
+---
 
 ## Soft Skills:
 
@@ -22,6 +38,15 @@ Sou um desenvolvedor backend com Java e Spring Boot, com experiência prática e
 - Adaptabilidade
 - Inovação
 - Aprendizagem contínua
+
+---
+
+### Outros interesses
+
+- Leitura: Filosofia, psicologia, psicanálise e neurociência
+- Esporte: Calistenia
+  
+---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=euvitorti" />
