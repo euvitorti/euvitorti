@@ -51,5 +51,5 @@ Sou estudante de backend com experiência prática em projetos pessoais e acadê
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=euvitorti" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=euvitorti&layout=compact&langs_count=7&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=euvitorti&layout=compact&langs_count=10&card_width=320" />
 </a>
