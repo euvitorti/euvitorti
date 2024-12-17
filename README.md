@@ -8,7 +8,7 @@ Sou estudante de backend com experiência prática em projetos pessoais e acadê
 
 ## Idiomas
 
-- **Inglês**: Nível B1 (Focando na Conversaçao)
+- **Inglês**: Nível B1 (Focando na Conversação)
 - **Espanhol**: Nível A2
    
 ---
