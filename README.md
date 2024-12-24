@@ -56,6 +56,4 @@ Sou estudante de backend com experiência prática em projetos pessoais e acadê
 
 ---
 
-<a href="https://roadmap.sh">
-   <img src="https://roadmap.sh/card/wide/6759a160ecc889bb0df88a4a?variant=dark&roadmaps=java%2Csoftware-architect%2Clinux%2Cbackend" alt="roadmap.sh"/>
-</a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6759a160ecc889bb0df88a4a?variant=light" alt="roadmap.sh"/></a>
