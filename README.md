@@ -1,3 +1,53 @@
+# Who is Vítor? 👨‍💻 (Bio in PT/EN)   
+
+---  
+
+I am a backend student with hands-on experience in personal and academic projects, developing APIs and working with relational databases. Currently, I’m in the third semester of the Systems Development course at SENAI and I complement my education with courses on Alura. I’m always seeking to improve my skills and ready to face new challenges in software development.  
+
+---  
+
+## Languages  
+
+- **Portuguese**: Native
+- **English**: Intermediate  
+- **Spanish**: Basic
+
+---  
+
+## Hard Skills  
+
+- **Operating Systems**: Linux, Windows  
+- **Programming Languages**: Java, JavaScript  
+- **Framework**: Spring Boot  
+- **Unit Testing**: Mockito, JUnit  
+- **Version Control Tools**: Git, GitHub  
+- **Cyber Security**: Nmap, Gobuster  
+- **Relational Databases**: PostgreSQL, MySQL  
+- **Architecture**: MVC, Microservices  
+- **Messaging**: RabbitMQ  
+- **Tools**: Postman, IntelliJ IDEA, VS Code  
+
+---  
+
+## Soft Skills  
+
+- Communication  
+- Problem-solving  
+- Teamwork  
+- Emotional intelligence  
+- Adaptability  
+- Innovation  
+- Continuous learning  
+
+---  
+
+### Other Interests  
+
+- Reading: Philosophy, psychology, psychoanalysis, and neuroscience  
+- Sports: Calisthenics  
+
+--- 
+
 # Quem é Vítor? 👨‍💻
 
 ---
